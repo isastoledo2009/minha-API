@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "cpf": 12345678900,
+        "nome": "isabella",
+        "sobrenome": "Toledo",
+        "cidade": "São Paulo",
+        "pais": "Brasil",
+        "link":"https://nirvana.com" ,
+        "imagem": "<img src='img/download.jfif' width= '200px'>"
+
+    },
+    {
+        "id": 2,
+        "cpf": 98765432100,
+        "nome": "Mogi",
+        "sobrenome": "Cruzes",
+        "cidade": "Suzano",
+        "pais": "Brasil",
+        "link": "https://slipknot.com",
+        "imagem": "<img src='img/nirvana.jpg' width= '200px'>"
+
+    }
+
+]
